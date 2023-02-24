@@ -23,3 +23,4 @@ else:
     print ('Seu nome tem ', str(len(Nome)) ,'letras')
     print (f"A primeira letra do seu nome é {Nome[0]}")
     print (f"A última letra do seu nome é {Nome[len(Nome)-1]}")
+print("fim")
