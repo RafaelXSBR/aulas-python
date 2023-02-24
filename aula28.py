@@ -15,4 +15,3 @@ Se nada for digitado em nome ou idade:
 """
 Nome=input('Digite seu Nome: ')
 idade=input('Digite sua Idade: ')
-teste
