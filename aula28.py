@@ -20,7 +20,7 @@ if not Nome and  not idade:
 else:
     print (f"Seu nome é {Nome}")
     print (f"Seu nome invertido é {Nome[::-1]}")
-    print ('Seu nome tem ', str(len(Nome)) ,'letras')
+    print ('Seu nome tem ', len(Nome) ,'letras')
     print (f"A primeira letra do seu nome é {Nome[0]}")
     print (f"A última letra do seu nome é {Nome[len(Nome)-1]}")
 print("fim do programa")
